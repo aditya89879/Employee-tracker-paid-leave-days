@@ -1,2 +1,2 @@
 # Employee-tracker-paid-leave-days
-It is an employee tracker project which shows paid leaves
+This Excel project is an employee leave tracker used to record and monitor how many paid leaves employees have taken. It helps manage employee leave data and makes tracking easier. The project uses Excel formulas such as IF for conditions, nested XLOOKUP to find employee details, FILTER to show specific records, SUMIFS to calculate totals, and IF with AND / OR for multiple conditions. It demonstrates data handling, logical formulas, and automation in spreadsheets.
